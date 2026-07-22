@@ -11,19 +11,31 @@ I build things for the web, and follow my curiosity: creative coding, interactiv
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-## Start Here
+## What I'm building
 
-- 🌐 **[Portfolio](https://nahual.fr)** — my personal site
-- 🏛️ **[heritage](https://github.com/smaurier/heritage)** — learning history through interactive experiences
+- ♿ **[Nuada](https://nuada-audit.netlify.app)** ([repo](https://github.com/smaurier/website-audit-rgaa)) — web accessibility audits & remediation (RGAA/WCAG). The auditor who codes the fix.
 - 💪 **[training](https://github.com/smaurier/training)** — workout tracking app, React Native + Expo
-- ♿ **[website-audit-rgaa](https://github.com/smaurier/website-audit-rgaa)** — web accessibility auditing (RGAA)
+- 🌐 **[nahual.fr](https://nahual.fr)** ([repo](https://github.com/smaurier/portfolio)) — my personal site
+
+## History × code
+
+My long game: making people discover history and civilizations through play.
+
+- 🏛️ **[heritage](https://github.com/smaurier/heritage)** — learning history through interactive experiences (timeline, 3D map, dynasties, quizzes)
+- 🃏 **History Card** — an educational history card game, extracted from the Heritage vision *(in design)*
+- 🗿 **Carnac** — a Three.js narrative game about the birth of a civilization in Neolithic Brittany *(next up)*
+
+## Learning in public
+
+- 📚 **[fullstack-autotraining](https://github.com/smaurier/fullstack-autotraining)** — my self-taught fullstack JS curriculum, 24 courses from TypeScript to distributed systems. Fork it and learn.
 - 🧪 **[js-tests-from-scratch](https://github.com/smaurier/js-tests-from-scratch)** — a complete journey into modern JS/TS testing: Jest, Cypress, TDD, BDD, a11y
 
-## What I'm Doing
+## Experiments
 
-- **Learning in public** — deepening TDD and code craft, one project at a time
-- **Exploring history through code** — building educational games about the past (Neolithic Brittany is next)
-- **Caring about access** — web accessibility (RGAA) as a first-class concern, not an afterthought
+- 🧪 **[shibui-project](https://github.com/smaurier/shibui-project)** — sandbox: AI experiments, UI components, narrative prototypes
+- 🌌 **[resurgence](https://github.com/smaurier/resurgence)** — a Three.js experience
+- 🎓 **[quetzal](https://github.com/smaurier/quetzal)** — real-time educational quiz platform
+- ⚽ **[simu-football](https://github.com/smaurier/simu-football)** — football match simulation engine, built from scratch
 
 ## Connect
 
