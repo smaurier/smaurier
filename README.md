@@ -25,6 +25,13 @@ My long game: making people discover history and civilizations through play.
 - 🃏 **History Card** — an educational history card game, extracted from the Heritage vision *(in design)*
 - 🗿 **Carnac** — a Three.js narrative game about the birth of a civilization in Neolithic Brittany *(next up)*
 
+## Where I'm heading
+
+- **Ship, don't start.** Fewer projects, finished ones. My measure of progress is what's live, not what's planned.
+- **Make accessibility a craft, not a checkbox** — building an audit & remediation practice around RGAA/WCAG, as the auditor who codes the fix.
+- **Build the history playground.** Heritage, History Card and Carnac are steps toward one big goal: a place where people learn history and how civilizations are born — by playing.
+- **Master the craft.** TDD, tests first, understanding why before how. I'd rather build slowly and understand than ship fast and guess.
+
 ## Learning in public
 
 - 📚 **[fullstack-autotraining](https://github.com/smaurier/fullstack-autotraining)** — my self-taught fullstack JS curriculum, 24 courses from TypeScript to distributed systems. Fork it and learn.
