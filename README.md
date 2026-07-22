@@ -15,7 +15,7 @@ I build things for the web, and follow my curiosity: creative coding, interactiv
 
 - 🌐 **[Portfolio](https://nahual.fr)** — my personal site
 - 🏛️ **[heritage](https://github.com/smaurier/heritage)** — learning history through interactive experiences
-- 🤖 **[reverse-turing](https://github.com/smaurier/reverse-turing)** — a Three.js experiment
+- 💪 **[training](https://github.com/smaurier/training)** — workout tracking app, React Native + Expo
 - ♿ **[website-audit-rgaa](https://github.com/smaurier/website-audit-rgaa)** — web accessibility auditing (RGAA)
 - 🧪 **[js-tests-from-scratch](https://github.com/smaurier/js-tests-from-scratch)** — a complete journey into modern JS/TS testing: Jest, Cypress, TDD, BDD, a11y
 
@@ -33,4 +33,4 @@ I build things for the web, and follow my curiosity: creative coding, interactiv
 
 ---
 
-> "Build small, finish, share." : I make small, finished things (sometimes ^^") and learn out loud.
+> "Build small, finish, share." — I make small, finished things and learn out loud.
