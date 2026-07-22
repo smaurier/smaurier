@@ -33,4 +33,4 @@ I build things for the web, and follow my curiosity: creative coding, interactiv
 
 ---
 
-> "Build small, finish, share." — I make small, finished things and learn out loud.
+> "Build small, finish, share." : I make small, finished things (sometimes ^^") and learn out loud.
