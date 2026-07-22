@@ -4,6 +4,8 @@
 
 I build things for the web, and follow my curiosity: creative coding, interactive history, accessibility, and the craft of writing better code.
 
+A few things about me: I came to code through design, and it shows — I care as much about how things feel as how they work. I'm a teacher at heart: I run workshops, mentor younger devs, and build games to make my kids love history. I'm a storyteller too — Nahua mythology shapes my studio identity ([nahual.fr](https://nahual.fr)), and I write historical fiction on paper. Code is how I bring all of that together.
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
