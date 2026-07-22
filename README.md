@@ -16,7 +16,7 @@ A few things about me: I came to code through design, and it shows — I care as
 ## What I'm building
 
 - ♿ **[Nuada](https://nuada-audit.netlify.app)** ([repo](https://github.com/smaurier/website-audit-rgaa)) — web accessibility audits & remediation (RGAA/WCAG). The auditor who codes the fix.
-- 💪 **[training](https://github.com/smaurier/training)** — workout tracking app, React Native + Expo
+- 💪 **training** ([repo](https://github.com/smaurier/training)) — workout tracking app, React Native + Expo
 - 🌐 **[nahual.fr](https://nahual.fr)** ([repo](https://github.com/smaurier/portfolio)) — my personal site
 
 ## History × code
