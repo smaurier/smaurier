@@ -16,23 +16,17 @@ A few things about me: I came to code through design, and it shows — I care as
 ## What I'm building
 
 - ♿ **[Nuada](https://nuada-audit.netlify.app)** ([repo](https://github.com/smaurier/website-audit-rgaa)) — web accessibility audits & remediation (RGAA/WCAG). The auditor who codes the fix.
+- 🧠 **[Synapse](https://github.com/smaurier/claude-synapse)** — a Claude Code plugin: one memory hub linked (not synced) across every machine and project. "Don't sync — link."
+- 📡 **[radar-signaux](https://github.com/smaurier/radar-signaux)** — autonomous economic-intelligence radar on French open data (BODACC, INPI, press). Runs unattended, ships with real test coverage.
 - 💪 **[Trace](https://github.com/smaurier/trace)** — workout tracking app, React Native + Expo
 - 🌐 **[nahual.fr](https://nahual.fr)** ([repo](https://github.com/smaurier/portfolio)) — my personal site
-
-## History × code
-
-My long game: making people discover history and civilizations through play.
-
-- 🏛️ **[heritage](https://github.com/smaurier/heritage)** — learning history through interactive experiences (timeline, 3D map, dynasties, quizzes)
-- 🃏 **History Card** — an educational history card game, extracted from the Heritage vision *(in design)*
-- 🗿 **Carnac** — a Three.js narrative game about the birth of a civilization in Neolithic Brittany *(next up)*
 
 ## Where I'm heading
 
 - **Ship, don't start.** Fewer projects, finished ones. My measure of progress is what's live, not what's planned.
 - **Make accessibility a craft, not a checkbox** — building an audit & remediation practice around RGAA/WCAG, as the auditor who codes the fix.
-- **Build the history playground.** Heritage, History Card and Carnac are steps toward one big goal: a place where people learn history and how civilizations are born — by playing.
 - **Master the craft.** TDD, tests first, understanding why before how. I'd rather build slowly and understand than ship fast and guess.
+- **The long game:** a place where people learn history and how civilizations are born — by playing. [heritage](https://github.com/smaurier/heritage) is the first exploration; more to come when it's ready to ship, not before.
 
 ## Learning in public
 
