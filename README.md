@@ -17,6 +17,7 @@ A few things about me: I came to code through design, and it shows — I care as
 
 - ♿ **[Nuada](https://nuada-audit.netlify.app)** ([repo](https://github.com/smaurier/website-audit-rgaa)) — web accessibility audits & remediation (RGAA/WCAG). The auditor who codes the fix.
 - 🧠 **[Synapse](https://github.com/smaurier/claude-synapse)** — a Claude Code plugin: one memory hub linked (not synced) across every machine and project. "Don't sync — link."
+- 📋 **[gtasks-mcp](https://github.com/smaurier/gtasks-mcp)** — a Model Context Protocol server for Google Tasks: read/write task lists straight from Claude.
 - 📡 **[radar-signaux](https://github.com/smaurier/radar-signaux)** — autonomous economic-intelligence radar on French open data (BODACC, INPI, press). Runs unattended, ships with real test coverage.
 - 💪 **[Trace](https://github.com/smaurier/trace)** — workout tracking app, React Native + Expo
 - 🌐 **[nahual.fr](https://nahual.fr)** ([repo](https://github.com/smaurier/portfolio)) — my personal site
