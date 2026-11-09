@@ -4,7 +4,7 @@
 
 I build things for the web, and follow my curiosity: creative coding, interactive history, accessibility, and the craft of writing better code.
 
-A few things about me: I came to code through design, and it shows — I care as much about how things feel as how they work. I'm a teacher at heart: I run workshops, mentor younger devs, and build games to make my kids love history. I'm a storyteller too — Nahua mythology shapes my studio identity ([nahual.fr](https://nahual.fr)), and I write historical fiction on paper. Code is how I bring all of that together.
+A few things about me: I came to code through design, and it shows: I care as much about how things feel as how they work. I'm a teacher at heart: I run workshops, mentor younger devs, and build games to make my kids love history. I'm a storyteller too: Nahua mythology shapes my studio identity ([nahual.fr](https://nahual.fr)), and I write historical fiction on paper. Code is how I bring all of that together.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,32 +15,32 @@ A few things about me: I came to code through design, and it shows — I care as
 
 ## What I'm building
 
-- ♿ **[Nuada](https://nuada-audit.netlify.app)** ([repo](https://github.com/smaurier/website-audit-rgaa)) — web accessibility audits & remediation (RGAA/WCAG). The auditor who codes the fix.
-- 🧠 **[Synapse](https://github.com/smaurier/claude-synapse)** — a Claude Code plugin: one memory hub linked (not synced) across every machine and project. "Don't sync — link."
-- 📋 **[gtasks-mcp](https://github.com/smaurier/gtasks-mcp)** — a Model Context Protocol server for Google Tasks: read/write task lists straight from Claude.
+- ♿ **[Nuada](https://nuada-audit.netlify.app)** ([repo](https://github.com/smaurier/website-audit-rgaa)): web accessibility audits & remediation (RGAA/WCAG). The auditor who codes the fix.
+- 🧠 **[Synapse](https://github.com/smaurier/claude-synapse)**, a Claude Code plugin: one memory hub linked (not synced) across every machine and project. "Don't sync. Link."
+- 📋 **[gtasks-mcp](https://github.com/smaurier/gtasks-mcp)**, a Model Context Protocol server for Google Tasks: read/write task lists straight from Claude.
 - 📅 **[aztec-year](https://github.com/smaurier/aztec-year)** ([npm](https://www.npmjs.com/package/aztec-year)) : my first npm package. Mexica (Aztec) year names for any date, fully in Nahuatl, plus English, French and Spanish. Born on nahual.fr, where the fire serpent carries the current year on its tail.
-- 📡 **[radar-signaux](https://github.com/smaurier/radar-signaux)** — autonomous economic-intelligence radar on French open data (BODACC, INPI, press). Runs unattended, ships with real test coverage.
-- 💪 **[Trace](https://github.com/smaurier/trace)** — workout tracking app, React Native + Expo
-- 🌐 **[nahual.fr](https://nahual.fr)** ([repo](https://github.com/smaurier/portfolio)) — my personal site
+- 📡 **[radar-signaux](https://github.com/smaurier/radar-signaux)**: autonomous economic-intelligence radar on French open data (BODACC, INPI, press). Runs unattended, ships with real test coverage.
+- 💪 **[Trace](https://github.com/smaurier/trace)**: workout tracking app, React Native + Expo
+- 🌐 **[nahual.fr](https://nahual.fr)** ([repo](https://github.com/smaurier/portfolio)): my personal site
 
 ## Where I'm heading
 
 - **Ship, don't start.** Fewer projects, finished ones. My measure of progress is what's live, not what's planned.
-- **Make accessibility a craft, not a checkbox** — building an audit & remediation practice around RGAA/WCAG, as the auditor who codes the fix.
+- **Make accessibility a craft, not a checkbox**: building an audit & remediation practice around RGAA/WCAG, as the auditor who codes the fix.
 - **Master the craft.** TDD, tests first, understanding why before how. I'd rather build slowly and understand than ship fast and guess.
-- **The long game:** a place where people learn history and how civilizations are born — by playing. [heritage](https://github.com/smaurier/heritage) is the first exploration; more to come when it's ready to ship, not before.
+- **The long game:** a place where people learn history and how civilizations are born, by playing. [heritage](https://github.com/smaurier/heritage) is the first exploration; more to come when it's ready to ship, not before.
 
 ## Learning in public
 
-- 📚 **[fullstack-autotraining](https://github.com/smaurier/fullstack-autotraining)** — my self-taught fullstack JS curriculum, 24 courses from TypeScript to distributed systems. Fork it and learn.
-- 🧪 **[js-tests-from-scratch](https://github.com/smaurier/js-tests-from-scratch)** — a complete journey into modern JS/TS testing: Jest, Cypress, TDD, BDD, a11y
+- 📚 **[fullstack-autotraining](https://github.com/smaurier/fullstack-autotraining)**: my self-taught fullstack JS curriculum, 24 courses from TypeScript to distributed systems. Fork it and learn.
+- 🧪 **[js-tests-from-scratch](https://github.com/smaurier/js-tests-from-scratch)**, a complete journey into modern JS/TS testing: Jest, Cypress, TDD, BDD, a11y
 
 ## Experiments
 
-- 🧪 **[shibui-project](https://github.com/smaurier/shibui-project)** — sandbox: AI experiments, UI components, narrative prototypes
-- 🌌 **[resurgence](https://github.com/smaurier/resurgence)** — a Three.js experience
-- 🎓 **[quetzal](https://github.com/smaurier/quetzal)** — real-time educational quiz platform
-- ⚽ **[simu-football](https://github.com/smaurier/simu-football)** — football match simulation engine, built from scratch
+- 🧪 **[shibui-project](https://github.com/smaurier/shibui-project)**, sandbox: AI experiments, UI components, narrative prototypes
+- 🌌 **[resurgence](https://github.com/smaurier/resurgence)**: a Three.js experience
+- 🎓 **[quetzal](https://github.com/smaurier/quetzal)**: real-time educational quiz platform
+- ⚽ **[simu-football](https://github.com/smaurier/simu-football)**: football match simulation engine, built from scratch
 
 ## Connect
 
@@ -50,4 +50,4 @@ A few things about me: I came to code through design, and it shows — I care as
 
 ---
 
-> "Build small, finish, share." — I make small, finished things and learn out loud.
+> "Build small, finish, share." I make small, finished things and learn out loud.
